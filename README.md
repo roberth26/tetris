@@ -1,0 +1,1 @@
+`cd tetris && npx serve`
